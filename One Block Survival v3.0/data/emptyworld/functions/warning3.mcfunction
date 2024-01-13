@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"\n"},{"text":"90 Seconds have passed.","bold":true,"underlined":true,"color":"gold"},{"text":"\n\n"},{"text":"30 Seconds remain.","color":"yellow"}]
+schedule function emptyworld:lastwarning 25s

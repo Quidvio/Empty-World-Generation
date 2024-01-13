@@ -1,0 +1,1 @@
+execute if entity @a[tag=!loaded] run function emptyworld:playercheck

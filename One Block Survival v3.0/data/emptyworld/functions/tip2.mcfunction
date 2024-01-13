@@ -1,0 +1,1 @@
+tellraw @a {"text":"\nRemember, some colder biomes do not generate snow at lower layers or consistently.\nFrozen oceans have some rain spots, Taigas and Windswept Hills only snow at higher elevations, etc.","color":"green"}

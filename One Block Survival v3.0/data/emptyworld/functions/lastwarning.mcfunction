@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"\n"},{"text":"Placing block in 5 seconds...","bold":true,"underlined":true,"color":"gold"}]
